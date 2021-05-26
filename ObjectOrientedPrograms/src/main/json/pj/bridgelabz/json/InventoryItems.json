@@ -1,44 +1,39 @@
 {
-  "Rice":[
-    {
-      "name":"Basmati",
-      "price":40
-    },
-    {
-      "name":"jeera",
-      "price":30
-    },
-    {
-      "name":"Indrayani",
-      "price":40
-    }
-  ],
-  "Pulses":[
-    {
-      "name":"peas",
-      "price":60
-    },
-    {
-      "name":"ground nut",
-      "price":60
-    },
-    {
-      "name":"dal",
-      "price":80
-    }
-  ],
-  "Wheats":[
-    {
-      "name":"atta",
-      "price":40
-    },
-    {
-      "name":"bread",
-      "price":45
-    },
-    {
-      "name":"bun",
-      "price":50
-    }
-  ]
+  "Rice" : [ {
+    "name" : "Basmati",
+    "price" : 40
+  }, {
+    "name" : "jeera",
+    "price" : 30
+  }, {
+    "name" : "Indrayani",
+    "price" : 40
+  } ],
+  "Pulses" : [ {
+    "name" : "peas",
+    "price" : 60
+  }, {
+    "name" : "ground nut",
+    "price" : 60
+  }, {
+    "name" : "dal",
+    "price" : 80
+  } ],
+  "Wheats" : [ {
+    "name" : "atta",
+    "price" : 40
+  }, {
+    "name" : "bread",
+    "price" : 45
+  }, {
+    "name" : "bun",
+    "price" : 50
+  } ],
+  "TuarDaal" : [ {
+    "name" : "a",
+    "price" : 500
+  }, {
+    "name" : "b",
+    "price" : 200
+  } ]
 }
