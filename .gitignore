@@ -1,5 +1,9 @@
 .bsp
 .idea
 project/
-target/
+target/bg-jobs
+target/global-logging
+target/streams
+target/task-temp-directory
+target/.history3
 build/
