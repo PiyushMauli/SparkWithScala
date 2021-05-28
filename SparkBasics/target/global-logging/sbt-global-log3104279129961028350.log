@@ -1,0 +1,8 @@
+[debug] > Exec(lib, Some(3c1f3db7-1a6d-4f52-bf38-ba819fb98728), Some(CommandSource(console0)))
+[error] Not a valid command: lib (similar: alias, plugin, client)
+[error] Not a valid project ID: lib
+[error] Expected ':'
+[error] Not a valid key: lib (similar: ivySbt)
+[error] lib
+[error]    ^
+[debug] > Exec(shell, None, None)
