@@ -1,9 +1,0 @@
-[debug] > Exec(libraryDependecxy, Some(060ff631-e2ad-4b1e-8ce9-ba130829937b), Some(CommandSource(console0)))
-[error] Not a valid command: libraryDependecxy
-[error] Not a valid project ID: libraryDependecxy
-[error] Expected ':'
-[error] Not a valid key: libraryDependecxy (similar: libraryDependencies, libraryDependencySchemes, sbtDependency)
-[error] libraryDependecxy
-[error]                  ^
-[debug] > Exec(shell, None, None)
-[debug] Forcing garbage collection...

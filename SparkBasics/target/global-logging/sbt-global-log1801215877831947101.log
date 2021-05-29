@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(66ddb94e-4337-4847-9e6c-a580a9d735f0), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to C:\SparkWithScala\SparkBasics\target\scala-2.12\classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 14 s, completed 28-May-2021, 1:12:32 PM[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
-[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-ee5405f3b534d3247828. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-ee5405f3b534d3247828_lock, error 5[0m

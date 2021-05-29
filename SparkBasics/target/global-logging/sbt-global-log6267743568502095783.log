@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(411d3a8e-4342-47f7-b942-1ffa2be5ba64), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 28-May-2021, 1:13:40 PM[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
-[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-ee5405f3b534d3247828. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-ee5405f3b534d3247828_lock, error 5[0m
